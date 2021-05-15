@@ -14,4 +14,6 @@ Purpose
 deployment section
 ## How to contribute
 
+## copyright
+ Copyright notice
 Sample website with plenty of files for demos
