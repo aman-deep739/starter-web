@@ -12,7 +12,8 @@ This is intro. bit more changesddd
 Purpose
 ## Deployment
 deployment section ++
-## How to contribute
+## How to contribu
+all rights reservedte
 please forkdd
 
 ## copyright
