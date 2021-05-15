@@ -7,7 +7,7 @@ Jason Taylor  jt@gmail.com
 
 # THANKS
 
- some extra text  Thanks to students
+ some extra text  Thanks to students more text
 
 # TECHNOLOGY COLOPHON
 
