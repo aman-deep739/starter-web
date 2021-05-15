@@ -1,7 +1,7 @@
 
 
 # Starter Web Repo
-
+some changes
 This is a simple website project . NEW LINEdddd   dddd
 
 This repository is for showing how Git and GitHub work
