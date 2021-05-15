@@ -2,6 +2,8 @@
 
 # Starter Web Repo
 
+This is a simple website project 
+
 This repository is for showing how Git and GitHub work
 
 ## Introfuction
